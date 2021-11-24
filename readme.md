@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-## 4134901 : Special Problem in Information Technologyaa    
-=======
 ## 4134901 : Special Problem in Information Technology  
->>>>>>> ca5730e334c4a7ffaed47f0cb2b87225585d9092
 
 *รายวิชาหัวข้อพิเศษด้านเทคโนโลยีสารสนเทศ*  
 _สาขาวิชาเทคโนโลยีสารสนเทศ_  
