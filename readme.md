@@ -26,3 +26,9 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 
 **LAB2**
 >npm update
+
+**LAB3**
+npm start
+
+**LAB4**
+add Car.js,Table.js,UL.js
