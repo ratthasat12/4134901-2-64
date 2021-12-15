@@ -5,7 +5,8 @@ import "./index.css";
 import Car from "./components/Car";
 import List from "./components/List";
 import Ul from "./components/UL";
-import DataTable from "./components/Table"
+import DataTable from "./components/Table";
+import Hook from "./components/Hook";
 
 ReactDOM.render(
   <>
@@ -13,6 +14,7 @@ ReactDOM.render(
     <Car age ="22" eye ="black"/>
     <List />
     <Ul />
+    <Hook />
   </>,
   document.getElementById("root")
 );
